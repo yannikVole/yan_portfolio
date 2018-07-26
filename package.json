@@ -1,0 +1,14 @@
+{
+  "name": "yannik_portfolio",
+  "version": "0.0.1",
+  "description": "A modern portfolio page",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css --recursive"
+  },
+  "author": "Yannik Vole",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.9.2"
+  }
+}
